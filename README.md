@@ -2,6 +2,8 @@
 
 ![Game Screenshot](https://github.com/thuyein96/starwar-shooter-game-with-amazon-q/blob/main/game-homepage.png)
 
+Blog about this game
+
 A retro-style 2D space shooter game inspired by Star Wars, built with Python and Pygame. Take control of an X-Wing fighter and defend the Rebellion against waves of Imperial TIE Fighters!
 
 ## Features
